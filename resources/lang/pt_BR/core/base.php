@@ -1,7 +1,7 @@
 <?php
 
 return [
-    'test' => 'pt_BR traduzido pelo pacote API-CORE',
+    'test' => 'pt_BR traduzido pelo pacote PKG-CORE',
     'welcome_to_app' => 'Bem vindo a :appName',
     'success' => 'Operação realizada com sucesso.',
     'created' => 'Registro criado com sucesso.',
