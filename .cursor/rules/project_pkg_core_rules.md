@@ -1,0 +1,1 @@
+D:/projects/bsa/project/_generics/docs/_ai/shared_rules/project_pkg_core_rules.md
