@@ -2,7 +2,7 @@
 
 return [
     'test' => 'pt_BR traduzido pelo pacote PKG-CORE',
-    'test2' => 'pt_BR traduzido pelo pacote PKG-CORE',
+    'test-published' => 'editar depois de publicar',
     'welcome_to_app' => 'Bem vindo a :appName',
     'success' => 'Operação realizada com sucesso.',
     'created' => 'Registro criado com sucesso.',
