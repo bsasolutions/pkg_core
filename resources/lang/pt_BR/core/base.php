@@ -1,8 +1,8 @@
 <?php
 
 return [
-    'test' => 'pt_BR traduzido pelo pacote PKG-CORE',
-    'test-published' => 'editar depois de publicar',
+    'test-package' => 'pt_BR traduzido pelo pacote pkg-core',
+    'test-published' => 'editar depois de php artisan vendor:publish --tag=pkg_core-lang',
     'welcome_to_app' => 'Bem vindo a :appName',
     'success' => 'Operação realizada com sucesso.',
     'created' => 'Registro criado com sucesso.',
